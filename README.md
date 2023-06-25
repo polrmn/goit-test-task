@@ -1,3 +1,7 @@
+# Project Description
+
+The Twitter Account Manager is a React application that allows users to manage their Twitter account by following or unfollowing other Twitter users. It provides a user-friendly interface to easily perform these actions and keep track of the accounts they are following.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
